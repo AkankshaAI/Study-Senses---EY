@@ -1,4 +1,4 @@
-# STUDY SENSES 
+# STUDY SENSES - VIBE,JAM and SCORE
 
 ## Lyrics Generation
 
